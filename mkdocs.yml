@@ -1,0 +1,9 @@
+site_name: demodocs
+theme: readthedocs
+repo_url: https://github.com/paredesyopinto/demodocs
+
+pages:
+- Intro: index.md
+- Page 1: markdown-sample.md
+- Page 2: page2.md
+
